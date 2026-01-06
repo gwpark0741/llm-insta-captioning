@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# Data
+data/
+*.csv
+*.json
+
+# Model / cache
+.cache/
+*.pt
+*.bin
+*.safetensors
+
+# Logs / outputs
+outputs/
+logs/
